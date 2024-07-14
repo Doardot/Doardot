@@ -57,7 +57,7 @@ Click on any card below to see more details.
 ### Spotify-Home
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
   <a href="https://github.com/Doardot/spotify-home">
-    <img src="assets/spotify_logo.png" height="140" width="300" style="border-radius: 10%; margin-right: 20px;">
+    <img src="assets/spotify_logo.png" height="140" style="border-radius: 10%; margin-right: 20px;">
   </a>
   <p>
     This project is a "clone" of Spotify's homepage, created during Alura's 5-day Front-End Immersion.
