@@ -8,10 +8,11 @@
   </a>
 </div>
 
-- 📚 4th semester Software Engineering student at PUCRS (2024/2)
-- 🔍 Scientific researcher for PET-Inf
-- 🎯 Interested in back-end development and subjects related to cybersecurity
-- 📫 How to reach me [eduardo.tavares002@edu.pucrs.br](mailto:eduardo.tavares002@edu.pucrs.br)
+- 📚 **4th semester Software Engineering student** at PUCRS (2024/2)
+- 👨‍💻 **Front-End Developer** (Delphi) at Nelogica
+- 🔍 **Former scientific researcher** for PET-Inf
+- 🎯 Passionate about front-end development and AI-related topics
+- 📫 Reach me via [email](mailto:eduardo.tavares002@edu.pucrs.br)
 <br>
 
 ## Technology Stack
@@ -21,17 +22,10 @@
   [![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,c&theme=light)](https://skillicons.dev)
 </div>
 
-### Frameworks & Libraries
+### Frameworks & Tools
 <div align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light)](https://skillicons.dev)
-</div>
-
-### Tools & Platforms
-<div align="left">
-
-  [![My
-  Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma,obsidian&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,gitlab,vscode,idea,figma,obsidian&theme=light)](https://skillicons.dev)
 </div>
 
 ### Databases
@@ -48,9 +42,7 @@ Click on any card below to see more details.
     <img src="assets/logo_let_me_trial.jpg" height="140" style="border-radius: 10%; margin-right: 20px;">
   </a>
   <p>
-    Project developed for my Software Engineering course. It is a platform that aims to
-    facilitate the search for clinical trials for patients with diseases that require unavailable or expensive
-    treatments.
+    A platform developed as part of my Software Engineering coursework. <i>Let Me Trial</i> helps patients find clinical trials that provide treatment options for diseases with limited or expensive solutions.
   </p>
 </div>
 
@@ -60,11 +52,7 @@ Click on any card below to see more details.
     <img src="assets/spotify_logo.png" height="140" style="border-radius: 10%; margin-right: 20px;">
   </a>
   <p>
-    This project is a "clone" of Spotify's homepage, created during Alura's 5-day Front-End Immersion.
-    Leveraging the knowledge gained from the course, I not only successfully replicated the homepage but also enhanced
-    it with additional features I personally programmed.
-    The project was built using HTML5, CSS3, and JavaScript. It includes an internal API to fetch artist information,
-    providing a dynamic and interactive user experience.
+    This project replicates Spotify's homepage, developed during Alura's 5-day Front-End Immersion. Built using HTML5, CSS3, and JavaScript, it features an internal API for artist data, creating a dynamic user experience. 
   </p>
 </div>
 
