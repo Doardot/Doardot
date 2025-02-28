@@ -29,7 +29,7 @@ Click on any card below to see more details.
   <tr>
     <td width="180px">
       <a href="https://www.ages.pucrs.br/let-me-trial/">
-        <img src="assets/logo_let_me_trial.jpg" height="140" style="border-radius: 10% width="100%";">
+        <img src="assets/logo_meditamamente.svg" height="140" style="border-radius: 10% width="100%";">
       </a>
     </td>
     <td>
