@@ -8,53 +8,75 @@
   </a>
 </div>
 
-- 📚 **4th semester Software Engineering student** at PUCRS (2024/2)
-- 👨‍💻 **Front-End Developer** (Delphi) at Nelogica
-- 🔍 **Former scientific researcher** for PET-Inf
+- 📚 **5th semester Software Engineering student** at PUCRS (2025/1)
+- 👨‍💻 **Front-End Developer** at Nelogica
+- 🔍 **Former scientific researcher** at [PET-Inf](https://petinfpucrs.github.io/)
 - 🎯 Passionate about front-end development and AI-related topics
 - 📫 Reach me via [email](mailto:eduardo.tavares002@edu.pucrs.br)
 <br>
 
 ## Technology Stack
-### Languages
-<div align="left">
+<div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,c&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,c,react,nextjs,tailwind,git,github,gitlab&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,obsidian,mysql,postgresql,mongodb&theme=dark)](https://skillicons.dev)
 </div>
 
-### Frameworks & Tools
-<div align="left">
-
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,gitlab,vscode,idea,figma,obsidian&theme=light)](https://skillicons.dev)
-</div>
-
-### Databases
-<div align="left">
-
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light)](https://skillicons.dev)
-</div>
-
-## Main Projects
+## Featured Projects
 Click on any card below to see more details.
-### Let Me Trial
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <a href="https://www.ages.pucrs.br/let-me-trial/">
-    <img src="assets/logo_let_me_trial.jpg" height="140" style="border-radius: 10%; margin-right: 20px;">
-  </a>
-  <p>
-    A platform developed as part of my Software Engineering coursework. <i>Let Me Trial</i> helps patients find clinical trials that provide treatment options for diseases with limited or expensive solutions.
-  </p>
-</div>
+### 🤰 MeditAMAmente
+<table>
+  <tr>
+    <td width="180px">
+      <a href="https://www.ages.pucrs.br/let-me-trial/">
+        <img src="assets/logo_let_me_trial.jpg" height="140" style="border-radius: 10% width="100%";">
+      </a>
+    </td>
+    <td>
+      <p>
+        <strong>MeditAMAmente</strong> is a responsive Web platform aimed at offering an audio-guided meditation protocol for mothers of premature babies, 
+        assisting in the breastfeeding and well-being process. Awarded as the highlight project developed as part of AGES, I contributed to the back-end 
+        using <strong>Java, Spring Boot and MySQL<strong>.
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Spotify-Home
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/Doardot/spotify-home">
-    <img src="assets/spotify_logo.png" height="140" style="border-radius: 10%; margin-right: 20px;">
-  </a>
-  <p>
-    This project replicates Spotify's homepage, developed during Alura's 5-day Front-End Immersion. Built using HTML5, CSS3, and JavaScript, it features an internal API for artist data, creating a dynamic user experience. 
-  </p>
-</div>
+### 👨‍⚕️ Let Me Trial  
+<table>
+  <tr>
+    <td width="180px">
+      <a href="https://www.ages.pucrs.br/let-me-trial/">
+        <img src="assets/logo_let_me_trial.jpg" height="140" style="border-radius: 10% width="100%";">
+      </a>
+    </td>
+    <td>
+      <p>
+        <strong>Let Me Trial</strong> is a platform that connects patients with clinical trials for rare or expensive diseases.  
+        Developed in collaboration with my <strong>AGES Software Engineering</strong> team, I contributed to the front-end using  
+        <strong>React, TypeScript, and Tailwind CSS</strong>, ensuring a smooth and intuitive user experience.
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🎵 Spotify-Home  
+<table>
+  <tr>
+    <td width="180px">
+      <a href="https://github.com/Doardot/spotify-home">
+        <img src="assets/spotify_logo.png" height="140" style="border-radius: 10%;">
+      </a>
+    </td>
+    <td>
+      <p>
+        <strong>Spotify-Home</strong> is a <strong>Spotify homepage clone</strong>, developed during <strong>Alura's 5-day Front-End Immersion</strong>.  
+        Built with <strong>HTML5, CSS3, and JavaScript</strong>, featuring an internal API for artist data to create a dynamic and interactive experience.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## Contact Me
 <div>
