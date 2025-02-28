@@ -27,15 +27,15 @@ Click on any card below to see more details.
 ### 🤰 MeditAMAmente
 <table>
   <tr>
-    <td width="180px">
-      <a href="https://www.ages.pucrs.br/let-me-trial/">
-        <img src="assets/logo_meditamamente.svg" height="140" style="border-radius: 10% width="100%";">
+    <td width="180px" align="center">
+      <a href="https://tools.ages.pucrs.br/meditamamente">
+        <img src="assets/logo_meditamamente.svg" height="140">
       </a>
     </td>
     <td>
       <p>
         <strong>MeditAMAmente</strong> is a responsive Web platform aimed at offering an audio-guided meditation protocol for mothers of premature babies, 
-        assisting in the breastfeeding and well-being process. Awarded as the highlight project developed as part of AGES, I contributed to the back-end 
+        assisting in the breastfeeding and well-being process. Awarded as the <strong>highlight project</strong> developed as part of AGES, I contributed to the back-end 
         using <strong>Java, Spring Boot and MySQL<strong>.
       </p>
     </td>
@@ -45,9 +45,9 @@ Click on any card below to see more details.
 ### 👨‍⚕️ Let Me Trial  
 <table>
   <tr>
-    <td width="180px">
-      <a href="https://www.ages.pucrs.br/let-me-trial/">
-        <img src="assets/logo_let_me_trial.jpg" height="140" style="border-radius: 10% width="100%";">
+    <td width="180px" align="center">
+      <a href="https://tools.ages.pucrs.br/let-me-trial">
+        <img src="assets/logo_let_me_trial.jpg" height="140">
       </a>
     </td>
     <td>
@@ -63,9 +63,9 @@ Click on any card below to see more details.
 ### 🎵 Spotify-Home  
 <table>
   <tr>
-    <td width="180px">
+    <td width="180px" align="center">
       <a href="https://github.com/Doardot/spotify-home">
-        <img src="assets/spotify_logo.png" height="140" style="border-radius: 10%;">
+        <img src="assets/logo_spotify.png" height="140">
       </a>
     </td>
     <td>
