@@ -9,7 +9,7 @@
 </div>
 
 - 📚 **5th semester Software Engineering student** at PUCRS (2025/1)
-- 👨‍💻 **Front-End Developer** at Nelogica
+- 👨‍💻 **Software engineer** at [AEL Sistemas](https://www.ael.com.br/)
 - 🔍 **Former scientific researcher** at [PET-Inf](https://petinfpucrs.github.io/)
 - 🎯 Passionate about front-end development and AI-related topics
 - 📫 Reach me via [email](mailto:eduardo.tavares002@edu.pucrs.br)
