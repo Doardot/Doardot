@@ -8,7 +8,7 @@
   </a>
 </div>
 
-- 📚 **5th semester Software Engineering student** at PUCRS (2025/1)
+- 📚 **6th semester Software Engineering student** at PUCRS (2025/2)
 - 👨‍💻 **Software engineer** at [AEL Sistemas](https://www.ael.com.br/)
 - 🔍 **Former scientific researcher** at [PET-Inf](https://petinfpucrs.github.io/)
 - 🎯 Passionate about front-end development and AI-related topics
@@ -18,8 +18,8 @@
 ## Technology Stack
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,c,react,nextjs,tailwind,git,github,gitlab&theme=dark)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,obsidian,mysql,postgresql,mongodb&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,ts,js,html,css,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab,vscode,visualstudio,idea,figma,mysql,postgresql,mongodb&theme=dark)](https://skillicons.dev)
 </div>
 
 ## Featured Projects
