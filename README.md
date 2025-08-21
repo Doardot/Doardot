@@ -9,9 +9,9 @@
 </div>
 
 - 📚 **6th semester Software Engineering student** at PUCRS (2025/2)
-- 👨‍💻 **Software engineer** at [AEL Sistemas](https://www.ael.com.br/)
+- 👨‍💻 **Software engineer** at [AEL Sistemas](https://www.ael.com.br/) (C++/Python/React)
 - 🔍 **Former scientific researcher** at [PET-Inf](https://petinfpucrs.github.io/)
-- 🎯 Passionate about front-end development and AI-related topics
+- 🎯 Passionate about full-stack development and AI-related topics
 - 📫 Reach me via [email](mailto:eduardo.tavares002@edu.pucrs.br)
 <br>
 
