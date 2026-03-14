@@ -10,8 +10,8 @@
 </div> 
 -->
 
-- 📚 **6th semester Software Engineering student** at PUCRS (2025/2)
-- 👨‍💻 **Software engineer** for embedded systems at [AEL Sistemas](https://www.ael.com.br/) (C++/Python/React)
+- 📚 **7th semester Software Engineering student** at PUCRS (2025/2)
+- 👨‍💻 **Software engineer intern** at [AEL Sistemas](https://www.ael.com.br/) (C++/Python/React)
 - 🔍 **Former scientific researcher** at [PET-Inf](https://petinfpucrs.github.io/)
 - 🎯 Passionate about full-stack development and AI-related topics
 - 📫 Reach me via [email](mailto:eduardo.tavares002@edu.pucrs.br)
@@ -20,8 +20,8 @@
 ## Technology Stack
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,fastapi,java,spring,ts,js,html,css,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab,vscode,visualstudio,idea,figma,mysql,postgresql,mongodb,docker,postman&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,fastapi,java,spring,ts,js,html,css,react,tailwind&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab,vscode,visualstudio,idea,figma,mysql,postgresql,mongodb,docker,kubernetes,postman&theme=dark)](https://skillicons.dev)
 </div>
 
 ## Featured Projects
