@@ -1,0 +1,118 @@
+<svg width="850" height="740" viewBox="0 0 850 740" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&amp;family=JetBrains+Mono:wght@300;500&amp;display=swap');
+    
+    .bg { fill: #0f0f0f; }
+    .line { stroke: #2a2a2a; stroke-width: 1; }
+    .accent-path { stroke: #c6a35f; stroke-width: 1; opacity: 0.3; }
+    
+    .name-title { font-family: 'Cinzel', serif; fill: #c6a35f; font-size: 26px; text-transform: uppercase; letter-spacing: 4px; }
+    .meta-label { font-family: 'JetBrains Mono', monospace; fill: #666; font-size: 11px; text-transform: lowercase; letter-spacing: 2px; }
+    
+    .section-tag { font-family: 'JetBrains Mono', monospace; fill: #c6a35f; font-size: 12px; text-transform: lowercase; opacity: 0.9; }
+    .data-label { font-family: 'JetBrains Mono', monospace; fill: #777; font-size: 12px; }
+    .data-value { font-family: 'JetBrains Mono', monospace; fill: #eee; font-size: 13px; font-weight: 500; }
+    .data-desc { font-family: 'JetBrains Mono', monospace; fill: #999; font-size: 11px; line-height: 1.4; }
+    
+    .progress-bg { fill: #1a1a1a; }
+    .progress-fill { fill: #c6a35f; opacity: 0.7; }
+  </style>
+
+  <rect width="850" height="740" rx="4" class="bg" />
+  
+  <g transform="translate(425, 65)">
+    <path d="M0 -30 L18 2 L-18 2 Z" fill="#c6a35f" />
+    <path d="M-18 2 L0 34 L-36 34 Z" fill="#c6a35f" />
+    <path d="M18 2 L36 34 L0 34 Z" fill="#c6a35f" />
+    
+    <text y="85" text-anchor="middle" class="name-title">Eduardo Tavares</text>
+    <text y="105" text-anchor="middle" class="meta-label">𓆩 software engineer ✧ level 07 𓆪</text>
+    
+    <g transform="translate(-55, 125)">
+      <path d="M0 4 Q0 0 4 0 Q8 0 8 4 Q8 8 0 12 Q-8 8 -8 4 Q-8 0 -4 0 Q0 0 0 4" fill="#ff4d4d" transform="scale(0.8)"/>
+      <path d="M0 4 Q0 0 4 0 Q8 0 8 4 Q8 8 0 12 Q-8 8 -8 4 Q-8 0 -4 0 Q0 0 0 4" fill="#ff4d4d" transform="translate(15,0) scale(0.8)"/>
+      <path d="M0 4 Q0 0 4 0 Q8 0 8 4 Q8 8 0 12 Q-8 8 -8 4 Q-8 0 -4 0 Q0 0 0 4" fill="#ff4d4d" transform="translate(30,0) scale(0.8)"/>
+      <path d="M0 4 Q0 0 4 0 Q8 0 8 4 Q8 8 0 12 Q-8 8 -8 4 Q-8 0 -4 0 Q0 0 0 4" fill="#ff4d4d" transform="translate(45,0) scale(0.8)"/>
+      <path d="M0 4 Q0 0 4 0 Q8 0 8 4 Q8 8 0 12 Q-8 8 -8 4 Q-8 0 -4 0 Q0 0 0 4" fill="#ff4d4d" transform="translate(60,0) scale(0.8)"/>
+      <path d="M0 4 Q0 0 4 0 Q8 0 8 4 Q8 8 0 12 Q-8 8 -8 4 Q-8 0 -4 0 Q0 0 0 4" fill="#ff4d4d" transform="translate(75,0) scale(0.8)"/>
+      <path d="M0 4 Q0 0 4 0 Q8 0 8 4 Q8 8 0 12 Q-8 8 -8 4 Q-8 0 -4 0 Q0 0 0 4" fill="#ff4d4d" transform="translate(90,0) scale(0.8)"/>
+      <path d="M0 4 Q0 0 4 0 Q8 0 8 4 Q8 8 0 12 Q-8 8 -8 4 Q-8 0 -4 0 Q0 0 0 4" fill="#2a2a2a" transform="translate(105,0) scale(0.8)"/>
+    </g>
+  </g>
+
+  <line x1="60" y1="220" x2="790" y2="220" class="line" />
+  <line x1="320" y1="240" x2="320" y2="690" class="line" />
+
+  <g transform="translate(60, 255)">
+    <text class="section-tag">△ main gear △</text>
+    
+    <g transform="translate(0, 25)">
+      <text class="data-label">Master Sword</text>
+      <text y="18" class="data-value">C / C++</text>
+      
+      <text y="50" class="data-label">Sub-Weapon</text>
+      <text y="68" class="data-value">Java / Spring Boot</text>
+      
+      <text y="100" class="data-label">Magic Scroll</text>
+      <text y="118" class="data-value">Python / FastAPI</text>
+
+      <text y="150" class="data-label">Hylian Shield</text>
+      <text y="168" class="data-value">React / TypeScript</text>
+    </g>
+
+    <text y="240" class="section-tag">▲ skill progression ▲</text>
+    <g transform="translate(0, 265)">
+      <text class="data-desc">Backend Systems</text>
+      <rect y="8" width="200" height="3" class="progress-bg" />
+      <rect y="8" width="180" height="3" class="progress-fill" />
+      
+      <text y="35" class="data-desc">Software Architecture</text>
+      <rect y="43" width="200" height="3" class="progress-bg" />
+      <rect y="43" width="160" height="3" class="progress-fill" />
+      
+      <text y="70" class="data-desc">Real-Time Simulation</text>
+      <rect y="78" width="200" height="3" class="progress-bg" />
+      <rect y="78" width="140" height="3" class="progress-fill" />
+    </g>
+  </g>
+
+  <g transform="translate(360, 255)">
+    <text class="section-tag">▲ adventure log ▲</text>
+    
+    <g transform="translate(0, 25)">
+      <text class="data-label">Current Quest:</text>
+      <text y="18" class="data-value">Software Engineer Intern @ AEL Sistemas</text>
+      <text y="36" class="data-desc">Developing avionics training &amp; simulation tools.</text>
+      
+      <text y="64" class="data-label">Academic Quest:</text>
+      <text y="82" class="data-value">Software Engineering</text>
+      <text y="100" class="data-desc">7th semester, PUCRS.</text>
+    </g>
+
+    <text y="165" class="section-tag">△ active side quests △</text>
+    <g transform="translate(0, 190)">
+      <text class="data-value">» SalesPilot</text>
+      <text y="20" class="data-desc">Backend Architect. Java • Spring Boot • Postgres • DDD</text>
+
+      <text y="50" class="data-value">» MeditAMAmente</text>
+      <text y="64" class="data-desc">Backend Developer. Java • Spring Boot • MySQL</text>
+
+      <text y="96" class="data-value">» Let Me Trial</text>
+      <text y="112" class="data-desc">Frontend Developer. React • TypeScript • Tailwind</text>
+    </g>
+
+    <text y="335" class="section-tag">▲ contact &amp; fast travel ▲</text>
+    <g transform="translate(0, 365)">
+      <text class="data-label">LinkedIn:</text>
+      <text x="80" class="data-value">/in/eduardo-monteiro-tavares</text>
+      
+      <text y="25" class="data-label">Email:</text>
+      <text y="25" x="80" class="data-value">eduardo.tavares002@edu.pucrs.br</text>
+
+      <text y="50" class="data-label">GitHub:</text>
+      <text y="50" x="80" class="data-value">Doardot</text>
+    </g>
+  </g>
+
+  <path d="M60 710 L790 710" class="accent-path" stroke-dasharray="2 6" />
+</svg>
